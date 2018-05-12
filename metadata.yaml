@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5484
     wikipedia: http://en.wikipedia.org/wiki/Bertram_Lenox_Simpson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37376#Wang-the-NinthThe-Story-of-a-Chinese-Boy
 gutenberg_issued: '2011-09-10'
 gutenberg_type: Text
 identifiers:
